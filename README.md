@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjetalpuria
 - 👀 I’m interested in UX/UI & Front-end coding
-- 🌱 I’m currently learning ReactJS in depth 
-- 💞️ I’m looking to collaborate on team
+- 💼 I'm currently open to work
+- 🌱 I’m looking to collaborate on team
 - 📫 How to reach me shivani.jetalpuria@gmail.com
 
 <!---
